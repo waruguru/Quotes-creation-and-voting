@@ -17,3 +17,4 @@ export class QuoteHighlightDirective {
     this.elem.nativeElement.style.color=action;
 
 }
+}
